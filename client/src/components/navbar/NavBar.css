@@ -1,0 +1,8 @@
+.icon{
+    cursor:pointer;
+    margin: 0px 10px ;
+}
+.scrolled{
+    background-color: var(--main-color);
+}
+   
